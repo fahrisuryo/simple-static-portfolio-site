@@ -35,6 +35,10 @@ To run this project locally on your machine, follow these steps:
    cd simple-static-portfolio-site
 3. Open index.html in your preferred browser.
 
+## Preview
+
+![Image](https://github.com/user-attachments/assets/8eef71a6-b07d-4cb8-ae59-5eb6fb263cf6)
+
 ## Usage
 
 Feel free to explore the website and review the code. You can customize the content and styles to fit your personal branding.
